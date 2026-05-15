@@ -3,6 +3,7 @@
 All notable changes to the MLOps-Kit repository are documented here.
 
 ---
+# Changelog
 
 ## [Unreleased]
 
@@ -29,3 +30,4 @@ All notable changes to the MLOps-Kit repository are documented here.
 - `00_index/quick-links.md` — centralised cross-reference table linking all
   tools, areas, and files in the kit.
 - `CHANGELOG.md` — this file, tracking every task landing.
+- bentoml/security/cve-2026-35043-analysis.md - Security analysis for BentoML command injection vulnerability
