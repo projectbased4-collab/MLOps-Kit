@@ -9,6 +9,11 @@ All notable changes to the MLOps-Kit repository are documented here.
 
 ### Added
 
+#### mlf-001 — MLflow Model Registry quick-start guide
+- **Documentation:** `mlflow/docs/model-registry-quickstart.md`
+- Provides a step-by-step guide to using the MLflow Model Registry for model versioning, staging, and promotion.
+- Includes instructions for starting a tracking server, logging models, registering models, and transitioning between stages.
+
 #### kub-002 — Kubeflow Pipelines bootstrap on Minikube
 - **Script:** `kubeflow/scripts/bootstrap_kfp_on_minikube.sh`
 - Provides a fully-interactive, single-command orchestration for standing up a
@@ -31,3 +36,5 @@ All notable changes to the MLOps-Kit repository are documented here.
   tools, areas, and files in the kit.
 - `CHANGELOG.md` — this file, tracking every task landing.
 - bentoml/security/cve-2026-35043-analysis.md - Security analysis for BentoML command injection vulnerability
+
+(End of file - total 42 lines)
